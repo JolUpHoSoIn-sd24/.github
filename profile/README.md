@@ -1,7 +1,8 @@
 
 
 <div align=center>
-	![tennisfun thumbnail](https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/16fb89f4-1aab-4aa3-8fbe-773ea9f552c1)
+	![tennisfun thumbnail](https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/68fe9644-0b2c-4162-9d34-9efef484304a)
+
 
 </div>
 <div align=center>
