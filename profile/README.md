@@ -1,7 +1,8 @@
 
 
 <div align=center>
-	<img src="테니스 재미쓰 썸네일 링크" />
+	![tennisfun thumbnail](https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/16fb89f4-1aab-4aa3-8fbe-773ea9f552c1)
+
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
