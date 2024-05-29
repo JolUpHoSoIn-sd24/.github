@@ -16,11 +16,15 @@
     	<img src="https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=Shell&logoColor=white " />
 	<br/>
     	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white " />
-	<img src="https://img.shields.io/badge/qdrant-2F9599?style=for-the-badge&logo=qdrant&logoColor=white " />
+	<img src="https://img.shields.io/badge/Qdrant-DD244D?style=for-the-badge&logoColor=white" />
  	<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white " />
 	<br/>
  	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white " />
   	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white " />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&&logo=TensorFlow&logoColor=white" />
+    	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&&logo=OpenCV&logoColor=white" />
+	<br/>
+	<img src="https://img.shields.io/badge/Google%20Cloud Platform-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </div>
 <br>
 <div align=center>
