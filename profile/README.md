@@ -52,7 +52,7 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 <br/>
 <br/>
 <div align="center">
-  <img width="30%" src="https://github.com/4seasons-sc23/4seasons/assets/46314169/144dec6e-2b85-4dc2-91b6-eb27696b80fe">
+  <img width="30%" src="썸네일 링크">
 </div>
 <br/>
 
@@ -84,7 +84,7 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 - softcon: (소프트콘 링크) (아주대학교 소프트콘)
 <br/>
 
-<img width="90%" src="https://github.com/4seasons-sc23/4seasons/assets/46314169/7fa08c7d-6935-41ba-a071-38729846b443">
+<img width="90%" src="소프트콘 포스터 링크">
 <br/>
 <br/>
 
