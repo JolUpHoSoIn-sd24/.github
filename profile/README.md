@@ -1,5 +1,4 @@
-# 테니스 재미쓰
-## 2024 Capstone Design Project @ Ajou University
+
 
 <div align=center>
 	<img src="테니스 재미쓰 썸네일 링크" />
