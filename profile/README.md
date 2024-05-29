@@ -1,7 +1,7 @@
 
 
 <div align=center>
-	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/459839e8-823b-4d6e-8cce-4a970b85a81e">
+	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/459839e8-823b-4d6e-8cce-4a970b85a81e" width=300>
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
