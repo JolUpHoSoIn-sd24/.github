@@ -3,9 +3,6 @@
 <div align=center>
 	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="600">
 
-
-
-
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
