@@ -47,7 +47,7 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 <br/>
 <br/>
 <div align="center">
-	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="600">
+	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="1000">
 </div>
 <br/>
 
