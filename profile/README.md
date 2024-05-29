@@ -2,7 +2,7 @@
 ## 2024 Capstone Design Project @ Ajou University
 
 <div align=center>
-	<img src="테니스 재미쓰 로고 링크" />
+	<img src="테니스 재미쓰 썸네일 링크" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -52,13 +52,13 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 <br/>
 <br/>
 <div align="center">
-  <img width="30%" src="썸네일 링크">
+  <img width="30%" src="앱 아이콘/로고 링크">
 </div>
 <br/>
 
 ## 프로젝트 주요 기능
 
-<!--![image](https://github.com/4seasons-sc23/4seasons/assets/86904692/27a7074a-5e8d-4a2e-85af-77faa0114bb5)-->
+<!--![image](시스템 아키텍처 링크)-->
 
 테니스 재미쓰는은 두 가지 메인 기능을 통해 테니스 플레이어에게 편의 기능을 제공합니다.
 
@@ -107,6 +107,6 @@ AI, 프론트엔드, 백엔드 레포지토리를 아래 링크에서 확인하�
 |김관주|백엔드 개발|||
 |한승훈|백엔드 개발|||
 |김동령|프론트엔드 개발|insoyafear@ajou.ac.kr||
-|김영찬|프론트엔드 개발|alstjr1642@ajou.ac.kr||
+|김영찬|프론트엔드 개발|||
 
 <br/>
