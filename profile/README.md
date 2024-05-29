@@ -90,6 +90,7 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 AI, 프론트엔드, 백엔드 레포지토리를 아래 링크에서 확인하실 수 있습니다.
 <br/>
 
+- main: https://github.com/JolUpHoSoIn-sd24
 - AI: https://github.com/JolUpHoSoIn-sd24/tennisfunai
 - frontend: https://github.com/JolUpHoSoIn-sd24/tennisfunapp
 - backend: https://github.com/JolUpHoSoIn-sd24/tennisfunserver
