@@ -12,12 +12,13 @@
 	<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat" alt="Flutter Badge" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat" alt="Dart Badge" />
     <br/>
-    <img src="https://img.shields.io/badge/Java-47A248?style=flat&logo=Conda-Forge&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Java-47A248?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat" alt="Spring Boot Badge" />
-    <img src="https://img.shields.io/badge/Shell-5391FE?style=flat&logo=powershell&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Shell-5391FE?style=flat&logo=powershell&logoColor=white" />
     <br/>    
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    	<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB Badge" />
+	<img src="https://img.shields.io/badge/Qdrant-2F9599?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAnElEQVQ4jbWTMQ7CMAxFPwrDLoyQWDly4cSRK/9LjKAlMTGAFKUq1EpJ+dq05UtJI8eJ5fl8B4FH4DaRQ0Fho2n6wC0w4vKiAhqLZP/aZaABpDN5CLSgCdM2uR40g5YJ3aAVTlw72aWgDVgUlOW3wNRYY/NvGOsTUz0U4rVbM8lA/C/UGxoFCDwZYKyNS/CngGAHx8kPqtL9BDIUYA6ZLmqvAAAAAElFTkSuQmCC&logoColor=white&style=flat" alt="Qdrant Badge" />
+    
     <img src="https://img.shields.io/badge/minio-C72E49?style=flat&logo=minio&logoColor=white" />
 <br/>
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
