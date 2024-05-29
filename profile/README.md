@@ -2,11 +2,11 @@
 
 <div align=center>
 	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="600">
-
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
+</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white " />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white " />
@@ -37,7 +37,6 @@
 	<br/>
  	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   	<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-	
 </div>
 <br>
 
