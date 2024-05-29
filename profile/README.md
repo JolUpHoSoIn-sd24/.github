@@ -47,14 +47,14 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 <br/>
 <br/>
 <div align="center">
-	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="800">
+	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="1000">
 </div>
 <br/>
 
 ## 프로젝트 주요 기능
-
-<img width="820" alt="image" src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/e8a2e85b-c680-42ae-843f-86e9bba08e4c">
-
+<div align="center">
+	<img width="820" alt="image" src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/e8a2e85b-c680-42ae-843f-86e9bba08e4c">
+</div>
 
 테니스 재미쓰는은 두 가지 메인 기능을 통해 테니스 플레이어에게 편의 기능을 제공합니다.
 
