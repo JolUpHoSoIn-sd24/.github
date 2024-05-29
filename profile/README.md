@@ -1,7 +1,7 @@
 
 
 <div align=center>
-	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="600">
+	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/459839e8-823b-4d6e-8cce-4a970b85a81e">
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -44,11 +44,10 @@
 테니스 파트너 & 코트 매칭 및 무인심판 서비스
 <br/>
 AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 기능, 비전 AI 기반 라인콜링 및 오토 스코어링 기능을 제공하는 올인원 테니스 매칭 플랫폼 입니다.
-
 <br/>
 <br/>
 <div align="center">
-  <img width="30%" src="앱 아이콘/로고 링크">
+	<img src="https://github.com/JolUpHoSoIn-sd24/.github/assets/62142245/91447a54-5d6e-403f-af39-710571fa68d6" width="600">
 </div>
 <br/>
 
