@@ -11,8 +11,8 @@
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white " />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white " />
     <br/>
-    	<img src="https://img.shields.io/badge/Java-47A248?style=for-the-badge&logo=Java&logoColor=white " />
-	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring_Boot&logoColor=white " />
+    	<img src="https://img.shields.io/badge/java-47A248?style=for-the-badge&logo=java&logoColor=white " />
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white " />
     	<img src="https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=Shell&logoColor=white " />
     <br/>    
     	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white " />
