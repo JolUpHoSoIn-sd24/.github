@@ -92,9 +92,9 @@ AI 기반 개인 맞춤형 테니스 플레이어 및 테니스 코트 매칭 �
 AI, 프론트엔드, 백엔드 레포지토리를 아래 링크에서 확인하실 수 있습니다.
 <br/>
 
-- AI: (깃헙링크)
-- frontend: (깃헙링크)
-- backend: (깃헙링크)
+- AI: [(깃헙링크)](https://github.com/JolUpHoSoIn-sd24/tennisfunai)
+- frontend: [(깃헙링크)](https://github.com/JolUpHoSoIn-sd24/tennisfunapp)
+- backend: [(깃헙링크)](https://github.com/JolUpHoSoIn-sd24/tennisfunserver)
 
 <br/>
 
@@ -102,10 +102,10 @@ AI, 프론트엔드, 백엔드 레포지토리를 아래 링크에서 확인하�
 
 |이름|역할|email|github|
 |---|---|---|---|
-|송정우|AI 개발|jws5346@ajou.ac.kr||
-|김관주|백엔드 개발|||
-|한승훈|백엔드 개발|||
-|김동령|프론트엔드 개발|insoyafear@ajou.ac.kr||
-|김영찬|프론트엔드 개발|||
+|송정우|AI 개발|jws5346@ajou.ac.kr|https://github.com/KyleJSong|
+|김관주|백엔드 개발|kkj6235@ajou.ac.kr|https://github.com/kkj6235|
+|한승훈|백엔드 개발|hsh1223@ajou.ac.kr|https://github.com/shhan730|
+|김동령|프론트엔드 개발|insoyafear@ajou.ac.kr|https://github.com/Dolmaeng|
+|김영찬|프론트엔드 개발|ych601@ajou.ac.kr|https://github.com/rladudcks|
 
 <br/>
