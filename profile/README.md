@@ -9,7 +9,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>
+	<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat" alt="Flutter Badge" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
