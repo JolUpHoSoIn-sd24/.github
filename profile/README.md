@@ -18,12 +18,10 @@
     <br/>    
     	<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB Badge" />
 	<img src="https://img.shields.io/badge/Qdrant-2F9599?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAnElEQVQ4jbWTMQ7CMAxFPwrDLoyQWDly4cSRK/9LjKAlMTGAFKUq1EpJ+dq05UtJI8eJ5fl8B4FH4DaRQ0Fho2n6wC0w4vKiAhqLZP/aZaABpDN5CLSgCdM2uR40g5YJ3aAVTlw72aWgDVgUlOW3wNRYY/NvGOsTUz0U4rVbM8lA/C/UGxoFCDwZYKyNS/CngGAHx8kPqtL9BDIUYA6ZLmqvAAAAAElFTkSuQmCC&logoColor=white&style=flat" alt="Qdrant Badge" />
-    
-    <img src="https://img.shields.io/badge/minio-C72E49?style=flat&logo=minio&logoColor=white" />
-<br/>
-	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
- 	<img src="https://img.shields.io/badge/openstack-ED1944?style=flat&logo=openstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
+	<br/>	
+ 	<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python Badge" />
+ 
+	
 
 </div>
 <br>
@@ -31,12 +29,15 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
+	
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <br/>
+	<img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat" alt="Android Studio Badge" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white" />
-
+	<img src="https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white&style=flat" alt="Xcode Badge" />
+ 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+ 
 
 
 </div>
